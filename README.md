@@ -1,7 +1,7 @@
 # LGM-VIP-Tasks
 
-### Task-1 as a Data Science Intern at LetsGrowMore.
+### Data Science Intern at LetsGrowMore.
 
-### Task : Iris Flower Classification Project
-
+### Task 1 : Iris Flower Classification Project
+### Task 2 : Image to Pencil Sketch using Python
 
